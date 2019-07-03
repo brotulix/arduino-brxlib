@@ -25,8 +25,8 @@
 
 #include "brxlib_HMC5883.h"
 
-static int32_t _hmc5883_Gauss_LSB_XY = 1100000;  // Varies with gain
-static int32_t _hmc5883_Gauss_LSB_Z  = 980000;   // Varies with gain
+static int32_t _hmc5883_Gauss_LSB_XY = 1100;  // Varies with gain
+static int32_t _hmc5883_Gauss_LSB_Z  = 980;   // Varies with gain
 
 /***************************************************************************
  MAGNETOMETER
